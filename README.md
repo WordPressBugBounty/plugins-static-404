@@ -1,0 +1,1 @@
+# plugins-static-404
